@@ -1,7 +1,7 @@
 # Hi, I'm
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3d3d3d&height=140&text=DEVESH&fontColor=FFFFFF&fontSize=64&fontAlignY=50&stroke=000000&strokeWidth=2" alt="Devesh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=64&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=110&lines=DEVESH" alt="DEVESH" />
 </p>
 
 - 🎓 B.Tech Artificial Intelligence & Data Science student @ Rajalakshmi Institute of Technology, Chennai
