@@ -6,8 +6,7 @@
 
 - 🎓 B.Tech Artificial Intelligence & Data Science student @ Rajalakshmi Institute of Technology, Chennai
 - 🤖 Passionate about AI, Deep Learning, and building full-stack & mobile apps
-- 🏆 Hackathon team **4 Titans**
-- 🌱 Currently learning Node.js / Express for backend development
+- 🌱 Learning backend development with Node.js and Express
 
 ---
 
